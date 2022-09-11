@@ -1,1 +1,1 @@
-console.log("This is my todo")
+console.log("This is my todo on typescript")
